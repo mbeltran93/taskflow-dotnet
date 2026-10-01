@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+.git/
+.github/
+.vs/
+.vscode/
+*.user
+postman_collection.json
+README.md
